@@ -9,17 +9,19 @@
 //     }
 // }
 
-//Task1
-// function myFunc(){
-//     let text="Click the OK!";
-//     if (confirm(text) == true) {
-//         text = "Welcome the website";
-//       } else {
-//         text = "You canceled, try again!";
-//       }
-//       document.getElementById("User").innerHTML=text;
+//  Task1
+//   function myFunc(){
+//       let text="Click the OK!"; 
+//         if (confirm(text) == true) {
+//           text = "Welcome the website";
+//           document.getElementById('User').style.backgroundColor="red"
+//         } else {
+//           alert ("You canceled, try again!") ;
+//           location="https://turbo.az/"
+//         }
+//         document.getElementById("User").innerHTML=text;
     
-// }
+//   }
 
 //Task3
 // function myFunc(){
